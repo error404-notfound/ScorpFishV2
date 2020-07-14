@@ -2,11 +2,11 @@
     Author:  Javic [ Error 404 Security ]
 
 ## Legal Disclamer:
-    El autor de este script no es responsable por el mal uso de esta herrameinta,
+    El autor de este script no es responsable por el mal uso de esta herramienta,
     esta creada con fines educativos.
 
 ## Description:
-    Scorpfish es uan herramienta avanzada de phishing con varias plantillas 
+    Scorpfish V2 es uan herramienta avanzada de phishing con varias plantillas 
     para un mejor uso escoja la red social que nesesite. 
  
 ## Screenshot:
@@ -19,7 +19,7 @@
 
 ## Dependencies :
         1 - dialog
-	2 - php
+	   2 - php
         3 - curl
         4 - wget
         5 - ssh
@@ -32,9 +32,9 @@
          https://github.com/error404-notfound/ScorpFishV2.git
 
     2? - Configura este script los permisos de ejecucion
-         chmod 777 scorpfish-termux.sh
+         chmod 777 ScorFishTermux.sh
 
     3?- Correr el script :
-       ./scorpfish-termux.sh
+       ./ScorFishTermux.sh
          	   
       
