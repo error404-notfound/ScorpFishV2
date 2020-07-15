@@ -7,7 +7,7 @@
 
 ## Description:
     Scorpfish V2 es uan herramienta avanzada de phishing con varias plantillas 
-    para un mejor uso escoja la red social que nesesite. 
+    para un mejor uso escoja la red social que necesite. 
  
 ## Screenshot:
 ![pic1](https://i.imgur.com/ycxb8Gn.jpg)
@@ -19,7 +19,7 @@
 
 ## Dependencies :
         1 - dialog
-	   2 - php
+	    2 - php
         3 - curl
         4 - wget
         5 - ssh
